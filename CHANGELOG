@@ -1,7 +1,6 @@
 1.5 - 29/05/14
 New scatter option: Mesh
 Added control to specify blade segments
-New addon script: PFlow2Proxy
 BIGFIX: Width and Length spinner now have more range
 
 1.1a - 02/05/14
