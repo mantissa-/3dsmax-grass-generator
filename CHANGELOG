@@ -1,0 +1,16 @@
+1.5 - 29/05/14
+New scatter option: Mesh
+Added control to specify blade segments
+New addon script: PFlow2Proxy
+BIGFIX: Width and Length spinner now have more range
+
+1.1a - 02/05/14
+BUGFIX: Some of the grass UV's were getting messed up.
+
+1.1 - 15/02/14
+Code optimization (Thanks to barigazy)
+Speed improvements
+Added option to automatically create Multi/Sub material
+
+1.0 - 20/01/14
+Initial Release
