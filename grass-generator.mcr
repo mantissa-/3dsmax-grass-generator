@@ -1,7 +1,6 @@
 -- Grass Generator 1.5 - 29/05/14
 -- Dev by Midge Sinnaeve
 -- www.themantissa.net
--- midge@daze.tv
 -- Additional optimization by barigazy
 -- www.scriptspot.com/users/barigazy
 -- Free for all use and / or modification.
